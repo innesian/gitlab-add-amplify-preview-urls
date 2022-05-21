@@ -1,0 +1,16 @@
+{
+  "name": "serverless-lambda-amplify-preview-links-for-gitlab",
+  "version": "1.0.0",
+  "description": "A lambda function to update Gitlab Pull Requests with the link to the automatically created Amplify Preview link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Innes",
+  "license": "ISC",
+  "dependencies": {
+    "@gitbeaker/node": "^35.6.0",
+    "aws-sdk": "^2.1140.0",
+    "dotenv": "^16.0.1"
+  }
+}
