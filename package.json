@@ -9,8 +9,6 @@
   "author": "Adam Innes",
   "license": "ISC",
   "dependencies": {
-    "@gitbeaker/node": "^35.6.0",
-    "aws-sdk": "^2.1140.0",
-    "dotenv": "^16.0.1"
+    "@gitbeaker/node": "^35.6.0"
   }
 }
